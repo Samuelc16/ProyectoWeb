@@ -1,0 +1,57 @@
+
+header img{
+
+   width: 100%;
+   border-style:double;
+}
+
+body{
+    
+    min-height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    background-color: royalblue;
+    }
+
+.cuerpo{
+    
+    background-color: #b0cfe9;
+    background-image:  radial-gradient(#1579cd 0.5px, transparent 0.5px), radial-gradient(#1579cd 0.5px, #b0cfe9 0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;
+    width: 80%;
+    margin: auto;
+    max-width: 900px;
+    min-height: 100vh;
+    font-size: 2vh;
+    
+    
+        
+}
+
+section{
+    
+ display:contents;
+   grid-auto-rows:auto;
+   text-align: center;
+   
+    
+}
+
+footer{
+    text-align: center;
+    border-style: solid;
+}
+
+
+footer .copy{
+    color: black;
+}
+
+.redes-sociales i{
+    font-size: 30px; 
+    padding: 0 20px;
+}
+
+
+
